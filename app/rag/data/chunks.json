@@ -1,0 +1,138 @@
+[
+  {
+    "chunk_id": "brand_doc_1_0",
+    "source": "manual_upload",
+    "source_type": "brand_doc",
+    "title": "brand_doc_1",
+    "text": "Sweet Cookies is a handmade premium dessert brand focused on emotional storytelling, gifting moments, and cozy lifestyle branding for young women.",
+    "platform": "Instagram",
+    "account_name": "sweetcookies",
+    "content_type": "brand_guide",
+    "tags": [
+      "desserts",
+      "cozy",
+      "gifting"
+    ]
+  },
+  {
+    "chunk_id": "brand_doc_1_0",
+    "source": "manual_upload",
+    "source_type": "brand_doc",
+    "title": "brand_doc_1",
+    "text": "Sweet Cookies is a handmade premium dessert brand focused on emotional storytelling, gifting moments, and cozy lifestyle branding for young women.",
+    "platform": "Instagram",
+    "account_name": "sweetcookies",
+    "content_type": "brand_guide",
+    "tags": [
+      "desserts",
+      "cozy",
+      "gifting"
+    ]
+  },
+  {
+    "chunk_id": "cozy_instagram_style_0",
+    "source": "manual_inspiration",
+    "source_type": "inspiration",
+    "title": "cozy_instagram_style",
+    "text": "Soft, cozy, feminine Instagram captions focused on self-care, gifting, emotional storytelling, warm colors, and lifestyle moments.",
+    "platform": "Instagram",
+    "account_name": "cozyvibesinspo",
+    "content_type": "caption_style",
+    "tags": [
+      "cozy",
+      "feminine",
+      "self-care",
+      "storytelling"
+    ]
+  },
+  {
+    "chunk_id": "instagram_cozydessertvibes_0",
+    "source": "instagram_adapter",
+    "source_type": "inspiration",
+    "title": "instagram_cozydessertvibes",
+    "text": "BIO:\nA warm and feminine dessert brand focused on cozy storytelling and emotional moments.\n\nCAPTIONS:\nSoft mornings, sweet bites, and little moments of joy.\n\nEvery dessert tells a story of comfort and connection.\n\nVIBE NOTES:\nUse soft emotional language, feminine energy, cozy moments, and gifting vi",
+    "platform": "Instagram",
+    "account_name": "cozydessertvibes",
+    "content_type": "instagram_profile_inspiration",
+    "tags": [
+      "instagram",
+      "inspiration",
+      "social_style"
+    ]
+  },
+  {
+    "chunk_id": "instagram_cozydessertvibes_1",
+    "source": "instagram_adapter",
+    "source_type": "inspiration",
+    "title": "instagram_cozydessertvibes",
+    "text": "age, feminine energy, cozy moments, and gifting vibes.",
+    "platform": "Instagram",
+    "account_name": "cozydessertvibes",
+    "content_type": "instagram_profile_inspiration",
+    "tags": [
+      "instagram",
+      "inspiration",
+      "social_style"
+    ]
+  },
+  {
+    "chunk_id": "pinterest_cozy_branding_board_0",
+    "source": "pinterest_adapter",
+    "source_type": "inspiration",
+    "title": "pinterest_cozy_branding_board",
+    "text": "PIN DESCRIPTIONS:\nWarm neutral tones, gift boxes, ribbons, candles, handmade cookies.\n\nSoft lifestyle imagery with cozy home moments and feminine branding.\n\nVIBE NOTES:\nElegant, soft, premium, emotional, giftable.",
+    "platform": "Pinterest",
+    "account_name": "cozy_branding_board",
+    "content_type": "pinterest_board_inspiration",
+    "tags": [
+      "pinterest",
+      "inspiration",
+      "visual_style"
+    ]
+  },
+  {
+    "chunk_id": "cozy_instagram_style_0",
+    "source": "manual_inspiration",
+    "source_type": "inspiration",
+    "title": "cozy_instagram_style",
+    "text": "Soft, cozy, feminine captions focused on emotional storytelling, gifting moments, warm colors, and lifestyle vibes.",
+    "platform": "Instagram",
+    "account_name": "cozyvibesinspo",
+    "content_type": "inspiration_post",
+    "tags": [
+      "cozy",
+      "feminine",
+      "storytelling"
+    ]
+  },
+  {
+    "chunk_id": "brand_doc_1_0",
+    "source": "manual_upload",
+    "source_type": "brand_doc",
+    "title": "brand_doc_1",
+    "text": "Sweet Cookies is a handmade premium dessert brand focused on emotional storytelling, gifting moments, and cozy lifestyle branding for young women.",
+    "platform": "Instagram",
+    "account_name": "sweetcookies",
+    "content_type": "brand_guide",
+    "tags": [
+      "desserts",
+      "cozy",
+      "gifting"
+    ]
+  },
+  {
+    "chunk_id": "cozy_instagram_style_0",
+    "source": "manual_inspiration",
+    "source_type": "inspiration",
+    "title": "cozy_instagram_style",
+    "text": "Soft, cozy, feminine captions focused on emotional storytelling, gifting moments, warm colors, and lifestyle vibes.",
+    "platform": "Instagram",
+    "account_name": "cozyvibesinspo",
+    "content_type": "inspiration_post",
+    "tags": [
+      "cozy",
+      "feminine",
+      "storytelling"
+    ]
+  }
+]
